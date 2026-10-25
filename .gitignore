@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Friday user data and local model files
+.friday_data/
+models/
+*.db
+*.db-shm
+*.db-wal
+
+# Build output
+build/
+dist/
+*.spec.bak
+
+# Local secrets and editor state
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.cache/

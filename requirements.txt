@@ -1,0 +1,15 @@
+PySide6-Essentials==6.11.2
+PySide6-Addons==6.11.2
+kokoro-onnx
+soundfile
+sounddevice
+faster-whisper
+PyMuPDF
+Pillow
+numpy
+plyer
+pyperclip
+psutil
+pywin32
+ddgs
+duckduckgo-search
